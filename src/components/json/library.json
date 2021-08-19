@@ -1,0 +1,184 @@
+{
+  "colors": {
+    "col_3": {
+      "name": "Peterson Blue",
+      "value": "2680BC"
+    },
+    "col_4": {
+      "name": "Sky Blue",
+      "value": "2DACE2"
+    },
+    "col_5": {
+      "name": "Teal",
+      "value": "22A99F"
+    },
+    "col_8": {
+      "name": "Grass Green",
+      "value": "114523"
+    },
+    "col_9": {
+      "name": "Olive Green",
+      "value": "435326"
+    },
+    "col_10": {
+      "name": "Melon Green",
+      "value": "8CC63F"
+    },
+    "col_11": {
+      "name": "Warm Green",
+      "value": "D9E038"
+    },
+    "col_12": {
+      "name": "Duckie Yellow",
+      "value": "FCF23F"
+    },
+    "col_13": {
+      "name": "Melon Orange",
+      "value": "FBB03B"
+    },
+    "col_14": {
+      "name": "Pumpkin Orange",
+      "value": "F79C31"
+    },
+    "col_15": {
+      "name": "Brick",
+      "value": "6F4B3E"
+    },
+    "col_16": {
+      "name": "Dark Red",
+      "value": "7D1919"
+    },
+    "col_17": {
+      "name": "Bright Red",
+      "value": "ED3B43"
+    },
+    "col_18": {
+      "name": "Magenta",
+      "value": "F74A85"
+    },
+    "col_19": {
+      "name": "Pink",
+      "value": "FF6BFF"
+    },
+    "col_20": {
+      "name": "Grape",
+      "value": "AB4A9C"
+    },
+    "col_21": {
+      "name": "Lilac",
+      "value": "5721A5"
+    },
+    "col_22": {
+      "name": "Neon Blue 2",
+      "value": "3333FF"
+    },
+    "col_23": {
+      "name": "Neon Blue",
+      "value": "31E8F5"
+    },
+    "col_24": {
+      "name": "Neon Teal",
+      "value": "33FFE5"
+    },
+    "col_25": {
+      "name": "Neon Green",
+      "value": "40FF40"
+    },
+    "col_26": {
+      "name": "White",
+      "value": "F8F8F8"
+    },
+    "col_27": {
+      "name": "Black",
+      "value": "232323"
+    },
+    "col_28": {
+      "name": "Cold Grey",
+      "value": "3B444A"
+    },
+    "col_29": {
+      "name": "Steel Grey",
+      "value": "4D4D4F"
+    },
+    "col_30": {
+      "name": "Grey",
+      "value": "858585"
+    },
+    "col_31": {
+      "name": "Cream",
+      "value": "E2DCCE"
+    },
+    "col_32": {
+      "name": "Deep Purple",
+      "value": "2B0B37"
+    },
+    "col_33": {
+      "name": "Brown",
+      "value": "402DI2"
+    },
+    "col_34": {
+      "name": "Water",
+      "value": "B2F2EA"
+    },
+    "col_35": {
+      "name": "Green Sea",
+      "value": "B2F2C9"
+    },
+    "col_37": {
+      "name": "Misty Rose",
+      "value": "FDDFDF"
+    },
+    "col_38": {
+      "name": "Lavender",
+      "value": "F0DEFD"
+    },
+    "col_40": {
+      "name": "Red",
+      "value": "CC3349"
+    },
+    "col_41": {
+      "name": "Orange",
+      "value": "FF8D40"
+    },
+    "col_42": {
+      "name": "Yellow",
+      "value": "FFFF4D"
+    },
+    "col_43": {
+      "name": "Green",
+      "value": "3DC93D"
+    },
+    "col_44": {
+      "name": "True Blue",
+      "value": "3333CC"
+    },
+    "col_45": {
+      "name": "Purple",
+      "value": "722699"
+    },
+    "col_46": {
+      "name": "Algae",
+      "value": "135735"
+    },
+    "col_47": {
+      "name": "Light Grey",
+      "value": "ADADAD"
+    },
+    "col_48": {
+      "name": "Tan",
+      "value": "CBBC8F"
+    },
+    "col_49": {
+      "name": "Maroon",
+      "value": "4A1225"
+    },
+    "col_50": {
+      "name": "Beige",
+      "value": "F5F5DC"
+    },
+    "col_51": {
+      "name": "Taupe",
+      "value": "61564D"
+    }
+  }
+}
